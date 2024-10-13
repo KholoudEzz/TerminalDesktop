@@ -1,0 +1,7 @@
+//using AutoMapper;
+class POS
+{
+
+	
+
+}
